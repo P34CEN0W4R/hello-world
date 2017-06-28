@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello Humans!
+
+testing file. dont read this if you are under age
